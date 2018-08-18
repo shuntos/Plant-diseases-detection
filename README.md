@@ -2,7 +2,7 @@
 Tomato diseses detection using YOLO v2. python implementaion of darknet version of yolo.
 Can detect Late blight, bacterial canker, Gray spot ,and healthy plant.
 
-Download the weight and cfg file here https://drive.google.com/open?id=1igr5oB4ribG-a-QXAH-yTS1Q0j0QwOGV
+
 <p align="center"> <img src="gray_spot.png"/> </p>
 
 
