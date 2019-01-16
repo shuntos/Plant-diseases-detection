@@ -1,5 +1,5 @@
 ## Intro
-Tomato diseses detection using YOLO v2. python implementaion of darknet version of yolo.
+Tomato diseses detection using YOLO v2. python implementation of darknet version of yolo.
 Can detect Late blight, bacterial canker, Gray spot ,and healthy plant.
 
 
